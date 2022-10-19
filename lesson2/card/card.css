@@ -1,0 +1,58 @@
+.container {
+    background: #34cc9d;
+}
+
+.cards {
+    display: flex;
+    justify-content: space-evenly;
+}
+.card {
+    width: 280px;
+    height: 410px;
+    background: #151d27;
+    margin-top: 30px;
+}
+
+.fa-quote-right {
+    font-size: 50px;
+    color: #34cc9d;
+}
+.quotes {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+}
+
+.descript {
+    color: white;
+    box-sizing: border-box;
+    padding: 20px;
+    text-align: center;
+    font-size: 17px;
+    font-family: Arial;
+}
+img {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+}
+.image-block {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.image-deskr {
+    font-size: 17px;
+    font-family: Arial;
+    color: #34cc9d;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-top: 10px;
+}
+.some-deskr {
+    height: 100px;
+    background: #34cc9d;
+    width: 100%;
+}
