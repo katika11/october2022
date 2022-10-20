@@ -25,6 +25,9 @@
     background: white;
     width: 320px;
     height: 100px ;
+    display: flex;
+    justify-content: flex-start;
+
 }
 
 .mini {
