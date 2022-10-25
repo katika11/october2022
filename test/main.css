@@ -1,0 +1,60 @@
+body {
+    margin: 0;
+}
+
+.container {
+    width: 100%;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box {
+    width: 270px;
+    height: 370px;
+    background: silver;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 3px 3px 3px rgba(24, 24, 24, 0.37);
+    margin: 7px;
+}
+
+.fa-heart {
+    font-size: 40px;
+    color: palevioletred;
+}
+h2 {
+    font-family: Calibri;
+    color: palevioletred;
+    font-size: 30px;
+}
+p {
+    font-family: Calibri;
+    color: rgb(24, 24, 24);
+    text-align: center;
+    margin-top: 5px;
+    margin-left: 7px;
+    margin-right: 7px;
+}
+button {
+    color: silver;
+    background: palevioletred;
+    border: none;
+    font-size: 30px;
+    margin-top: 30px;
+}
+
+.fa-pagelines {
+    font-size: 40px;
+    color: palevioletred;
+}
+.fa-canadian-maple-leaf {
+    font-size: 40px;
+    color: palevioletred;
+}
+.fa-envira {
+    font-size: 40px;
+    color: palevioletred;
+}

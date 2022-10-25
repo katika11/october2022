@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.blocks {
+    width: 900px;
+    height: 500px;
+    background: #3ca4c7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    gap: 20px;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    background: deeppink;
+    position: relative;
+    border-radius: 50%;
+}
+
+.box:nth-child(2n) {
+background: #ffca0d;
+    bottom: -50px;
+}
