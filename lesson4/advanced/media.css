@@ -1,0 +1,35 @@
+@media screen  and (min-width: 0px) and (max-width: 400px){
+.main {
+    width: 200px;
+}
+    .box389 {
+        display: none;
+    }
+    .box4567 {
+        width: 100%;
+    }
+    .box67{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        row-gap: 5px;
+    }
+    .box6 {
+        width: 100%;
+    }
+    .box7 {
+        width: 100%;
+    }
+    .mini6 {
+        width: 100%;
+    }
+    .mini7 {
+        width: 100%;
+    }
+    .virtual3 {
+        display: flex;
+    }
+    .virtual89 {
+        display: flex;
+    }
+}
