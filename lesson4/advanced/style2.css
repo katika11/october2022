@@ -1,0 +1,153 @@
+.main {
+    width: 500px;
+    height: 700px;
+    margin: 7px;
+}
+.box1 {
+    width: 100%;
+    height: 7%;
+    background: #f575a6;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.box11 {
+    width: 100%;
+    height: 93%;
+    display: flex;
+}
+.box2 {
+    width: 20%;
+    height: 100%;
+    background: #D93C96;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.box22 {
+    width: 80%;
+    height: 100%;
+}
+.box3 {
+    width: 100%;
+    height: 25%;
+    background: #f795c7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box4 {
+    width: 100%;
+    height: 10%;
+    background: #f9cbe7;
+    display: flex;
+}
+.box5 {
+    width: 100%;
+    height: 55%;
+    display: flex;
+}
+.box7 {
+    width: 100%;
+    height: 10%;
+    background: #447ac4;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.box55 {
+    width: 80%;
+    height: 100%;
+    background: #DDB8FF;
+}
+.box6 {
+    width: 20%;
+    height: 100%;
+    background: #85aadf ;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.mini1 {
+    width: 17%;
+    height: 35%;
+    background: silver;
+    margin-right: 7px;
+    margin-left: 7px;
+}
+.mini2 {
+    width: 70%;
+    height: 4%;
+    background: silver;
+    margin-top: 7px;
+}
+.mini3 {
+    width: 92%;
+    height: 80%;
+    background: silver;
+}
+.box41 {
+    width: 50%;
+    height: 100%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+.box42 {
+    width: 50%;
+    height: 100%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.mini4 {
+    width: 40%;
+    height: 55%;
+    background: silver;
+    margin-left: 7px;
+    margin-right: 7px;
+}
+.box51 {
+    width: 100%;
+    height: 50%;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    margin-top: 10px;
+}
+.box52 {
+    width: 100%;
+    height: 50%;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.mini5 {
+    width: 41%;
+    height: 23%;
+    background: silver;
+}
+.mini6 {
+    width: 80%;
+    height: 7%;
+    background: silver;
+    margin-top: 10px;
+}
+.mini61 {
+    width: 80%;
+    height: 7%;
+    background: silver;
+    margin-top: 10px;
+}
+.mini7 {
+    width: 90%;
+    height: 25%;
+    background: silver;
+}
+.mini71 {
+    width: 30%;
+    height: 25%;
+    background: silver;
+    margin-top: 10px;
+}
